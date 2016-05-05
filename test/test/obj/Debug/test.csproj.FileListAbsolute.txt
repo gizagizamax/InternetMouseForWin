@@ -1,0 +1,5 @@
+D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\test\test\bin\Debug\test.exe
+D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\test\test\bin\Debug\test.pdb
+D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\test\test\obj\Debug\test.exe
+D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\test\test\obj\Debug\test.pdb

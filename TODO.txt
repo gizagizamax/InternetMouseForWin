@@ -1,0 +1,16 @@
+レイアウトの整理
+	Web画面
+	ForWinのアイコン
+	スマホのアイコン
+
+ソース管理
+	InternetMouseForWin     VisualStudio
+	InternetMouseWeb        memo
+	InternetMouseControler  Monaca
+	InternetMouseApi        AWS
+
+パスワード
+削除時にDB参照
+
+ブログ
+Vector

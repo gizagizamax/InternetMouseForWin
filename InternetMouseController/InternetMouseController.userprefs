@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.WindowsPlayer" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\IMComponent\IMComponentEvent.cs">
+    <Files>
+      <File FileName="Assets\Resources\IMComponent\IMComponentEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\IMCommon\IMEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\IMFramework\IMFramework2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Users\gizag_000\Documents\Visual Studio 2015\Projects\InternetMouseForWin\InternetMouseController\Assets\Resources\IMFramework\IMFramework2.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

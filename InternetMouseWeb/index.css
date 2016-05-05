@@ -1,0 +1,20 @@
+body{
+/*	background-color:#222;*/
+	width:250px;
+}
+.queueId{
+	width:80px;
+	margin:0px;
+	float:left;
+	color:#fff;
+}
+#queueId{
+	width:100px;
+}
+.btnSend{
+	float:left;
+	width:50px;
+	height:50px;
+	margin:5px;
+	padding:0px;
+}
